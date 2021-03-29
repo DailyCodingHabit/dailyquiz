@@ -1,0 +1,17 @@
+developer:
+- dev1:
+    name: Foo Bar
+    job: Developer
+    skills:
+      - python
+      - typescript
+      - css
+- dev2: 
+    name: John Woo
+    job: Backend Developer
+    skills:
+      - golang
+      - python
+      - docker
+
+

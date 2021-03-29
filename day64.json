@@ -1,0 +1,19 @@
+
+
+{
+  "daily": [ 
+	
+     { 
+        "id":"1", 
+        "name": "Daily", 
+        "lastname": "Coding" 
+     }, 
+	
+     { 
+        "id":"2", 
+        "name": "Foo", 
+        "lastname": "Bar" 
+     } 
+  ]   
+}
+

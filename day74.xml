@@ -1,0 +1,26 @@
+
+
+
+<dessert_menu>
+    <food>
+        <name>Daily Waffles</name>
+        <price>$2.95</price>
+        <text>Waffles with code</text>
+        <calories>1100</calories>
+    </food>
+    <food>
+        <name>Coding Toast</name>
+        <price>$3.95</price>
+        <text>Coding bread</text>
+        <calories>1200</calories>
+    </food>
+    <food>
+        <name>Habit Breakfast</name>
+        <price>$4.95</price>
+        <text>Popular habits</text>
+        <calories>1850</calories>
+    </food>
+</dessert_menu>
+
+
+

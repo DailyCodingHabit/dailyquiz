@@ -1,0 +1,20 @@
+
+
+
+
+
+curl "https://dailycodinghabit.test/article/random"
+
+
+
+[
+  {
+    "id": 29,
+    "type": 2,
+    "title": "What is programming",
+    "text": "Programming is the ...",
+    "active": true,
+  }
+]
+
+
